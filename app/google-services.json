@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291078528433",
+    "project_id": "wechat-9c5c2",
+    "storage_bucket": "wechat-9c5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291078528433:android:e505f936d0591917703190",
+        "android_client_info": {
+          "package_name": "com.chrischapters.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291078528433-5ifvlcsg3hjt8dkeuda3to0c72g5kj48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tYP3KNy8KEUxvNMzXmIvBYi6QGRlE0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291078528433-5ifvlcsg3hjt8dkeuda3to0c72g5kj48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
